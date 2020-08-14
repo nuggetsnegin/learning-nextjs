@@ -1,0 +1,6 @@
+/*CSS module, extracted from JS bundles at build time and generates a css file when loaded by Next*/
+.container{
+    max-width: 36rem;
+    padding: 0 1rem;
+    margin: 3rem auto 6rem;
+}
