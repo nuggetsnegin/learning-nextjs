@@ -33,6 +33,7 @@ export default function Layout({ children, home }) {
               alt={name}
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            <p>Hi, my name is Negin and I love CATS.</p>
           </>
         ) : (
           <>
