@@ -7,7 +7,7 @@ export default function FirstPost(){
         <Layout>
             <Head><title>First Post</title></Head>
             <h1>First Post</h1>
-            <h2><Link href="/"><a>Back Home</a></Link></h2>
+            <p>Why was the developer so sad at their new job? Because they couldn't get <strong>arrays</strong>...🤦‍♀️</p>
         </Layout>
     )
 }
