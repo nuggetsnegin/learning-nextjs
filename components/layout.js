@@ -4,7 +4,7 @@ import Head from 'next/head'
 import Link from 'next/link'
 
 const name = 'Nugget Negin'
-export const siteTitle = 'Learning Next.js!! 🐛'
+export const siteTitle = "Nugget's blog 🐛"
 
 export default function Layout({ children, home }) {
   return (
